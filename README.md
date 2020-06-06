@@ -1,4 +1,6 @@
-* Archived Package Videos:
+## Sample my academic & experiences on blockchain subject:
+
+# Archived Package Videos:
 - INE Understanding Crypto Currencies Bitcoins and Blockchains
 - Lynda Ethereum Building Blockchain Decentralized Apps DApps
 - Packtpub Blockchain for Business 2018 The New Industrial Revolution
@@ -7,13 +9,14 @@
 - StoneRiverElearning Starting with NEM
 - TechnicsPublications Data Modeling and Blockchain
 Build a Blockchain and a cryptocurrnecy from scratch
-* Youtube Channels:
+# Youtube Channels:
 - Hyperledger
 - IBM 
 - DApp university
 - Skycoin
 - Blockstack
 - Investment Cryptocurrentcy
-* Samples have runned by test network:
+# Samples have runned by test network:
 - DAapp university by web3.js (Reactjs,Js)
+- Solidity (build a game)
 - Build blockchain with GOlang (Websocket)
