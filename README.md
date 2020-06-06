@@ -6,7 +6,7 @@
 - Packtpub Blockchain for Business 2018 The New Industrial Revolution
 - Packtpub Blockchain Real World Projects
 - StoneRiverElearning Building Cryptocurrencies and Smart Contracts
-- StoneRiverElearning Starting with NEM
+- StoneRiverElearning Starting with NEM (Not yet)
 - TechnicsPublications Data Modeling and Blockchain
 Build a Blockchain and a cryptocurrnecy from scratch
 # Youtube Channels:
