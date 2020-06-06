@@ -25,3 +25,5 @@ Build a Blockchain and a cryptocurrnecy from scratch
 - Binance Trading
 - Trading on Civil Platforms (native financial)
 - Knowledge Of Technical & Conceptual Trading
+# Shared Research White Papers
+(link:https://1drv.ms/u/s!AiPa0TLEgzJ7jQ6q5Uj5CYjJKcik)
