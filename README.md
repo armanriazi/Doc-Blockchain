@@ -15,8 +15,13 @@ Build a Blockchain and a cryptocurrnecy from scratch
 - DApp university
 - Skycoin
 - Blockstack
-- Investment Cryptocurrentcy
 # Samples have runned by test network:
 - DAapp university by web3.js (Reactjs,Js)
 - Solidity (build a game)
 - Build blockchain with GOlang (Websocket)
+# Trading
+- Investment Cryptocurrentcy
+- Trading On The Platforms Of The Cryptocurrency
+- Binance Trading
+- Trading on Civil Platforms (native financial)
+- Knowledge Of Technical & Conceptual Trading
