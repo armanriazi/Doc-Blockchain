@@ -27,3 +27,4 @@ Build a Blockchain and a cryptocurrnecy from scratch
 - Knowledge Of Technical & Conceptual Trading
 # Shared Research White Papers
 (link:https://1drv.ms/u/s!AiPa0TLEgzJ7jQ6q5Uj5CYjJKcik)
+# ◘ Many bookmarks that taked my attention and time :) for understanding leaf subjects of blockchain ◘
