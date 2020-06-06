@@ -25,6 +25,11 @@ Build a Blockchain and a cryptocurrnecy from scratch
 - Binance Trading
 - Trading on Civil Platforms (native financial)
 - Knowledge Of Technical & Conceptual Trading
+# ◘ And many bookmarks that taked my attention and time :) for understanding leaf subjects of blockchain ◘
 # Shared Research White Papers
 (link:https://1drv.ms/u/s!AiPa0TLEgzJ7jQ6q5Uj5CYjJKcik)
-# ◘ And many bookmarks that taked my attention and time :) for understanding leaf subjects of blockchain ◘
+
+# ◘ Published Summery:Blockchain Popular Platforms ◘
+That is all just for you:
+https://medium.com/@arman.riazi.science
+I Made it with ❤️ for you
