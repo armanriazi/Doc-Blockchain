@@ -1,4 +1,4 @@
-## Sample my academic & experiences on blockchain subject:
+## ◘ Sample My Academic & Experiences On Blockchain Subject ◘
 
 # Archived Package Videos:
 - INE Understanding Crypto Currencies Bitcoins and Blockchains
